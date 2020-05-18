@@ -1,12 +1,14 @@
-# Ben's Memory Game
+# Memory Game
 
 In my Fend Udacity course, I had to create a memory game where upon clicked, two cards match and stay open. Once all cards are matched, a popup message appears and congratulates the tester for winning the game. The popup gives a score from 1 to 3, how much time it took, and how many moves it took to finish the game. 
+
+To see this project in action, go to [Demo](https://pbagastama.github.io/memory-game/)
 
 
 ## Installing from Source
 
 1. Clone the following repo: 
-  * git clone https://github.com/Ul1ra/MemoryGame
+`https://github.com/pbagastama/memory-game`
 
 2. Load index.html in browser.
 
@@ -14,7 +16,7 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
 
 ## How to Play:
 
-* The goal is to match all the cards together and win the game.
+The goal is to match all the cards together and win the game.
 
 1. Start by clicking on two cards, if they match, look for another pair of cards. If cards are not a pair, try again.
 
@@ -30,16 +32,6 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
   * https://github.com/udacity/fend-project-memory-game
 
 * Images taken from Google-Images>Tools>Usage-Rights>Labeled for reuse with modification
-
-
-## Known Issues:
-
-* If you match cards too quickly together, a single card may be mathced. 
-
-
-## Author
-
-* Ul1ra: Benjamin Cunningham
 
 
 ## License
